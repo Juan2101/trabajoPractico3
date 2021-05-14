@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "ejercicios de algebra",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "ordenar la pieza",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "lavar los platos",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "ordenar escritorio",
+    "estado": "pendiente"
+  }
+]
